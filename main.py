@@ -1,5 +1,10 @@
 def main():
+    """
+    Данная функция ничего не принимает на вход
+    :return: None
+    """
     print('My first git program')
+    # Второй принт
     print("Больше принтов")
 
 
